@@ -19,3 +19,6 @@
 * put pasta water and add petersilien
 * mix with pasta, pasta should be al dente
 * now guacamole is finished, vegan, environmentally friendly recipe
+
+## Final image of Guacamole
+![Authentic Illyrian Guacamole](./guacamole.jpg)
